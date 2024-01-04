@@ -8,11 +8,9 @@ author: xzq
 
 toc: true
 comments: true
-
+typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
-
-typora-root-url: ../../mezhiqiang.github.io/
 ---
 
 # 你好呀
