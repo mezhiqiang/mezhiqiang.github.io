@@ -16,7 +16,7 @@ typora-root-url: ../../mezhiqiang.github.io
 
 ---
 
-# 感谢关注～ 
+# 你好呀
 
 
 这里可以放代码片段噢～
@@ -25,6 +25,8 @@ typora-root-url: ../../mezhiqiang.github.io
 int main(){
   hello world;
 }
+我是小白
+
 ```
 
 ![1704335660275](/../mezhiqiang.github.io/assets/blog_res/2024-01-04-first-post.assets/1704335660275.png)
