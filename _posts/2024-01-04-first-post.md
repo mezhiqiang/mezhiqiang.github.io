@@ -23,7 +23,4 @@ int main(){
   hello world;
 }
 我是小白
-
 ```
-
-![1704335660275](/../mezhiqiang.github.io/assets/blog_res/2024-01-04-first-post.assets/1704335660275.png)
