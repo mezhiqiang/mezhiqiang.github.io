@@ -12,8 +12,7 @@ comments: true
 math: false
 mermaid: true
 
-typora-root-url: ../../mezhiqiang.github.io
-
+typora-root-url: ../../mezhiqiang.github.io/
 ---
 
 # 你好呀
